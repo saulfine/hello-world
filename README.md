@@ -7,3 +7,7 @@ Still trying to get the feel for git.
 did git branch newtest
 did git checkout
 
+
+Trying again:
+git clone https://github.com/saulfine/hello-world.git
+git branch third_git_test
